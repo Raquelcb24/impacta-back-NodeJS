@@ -15,8 +15,7 @@ Para clonar el repositorio y configurar el proyecto, sigue estos pasos:
 2. **Instala las dependencias**
   ```bash
      npm install
-
-     ```
+  ```
 
 ## Comprobación del lado del servidor.
 Se han realizado comprobaciones con Nodemon durante todo el curso de la producción y comprobaciones en Postman para comprobar que los endpoint funcionan correctamente.
